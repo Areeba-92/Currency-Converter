@@ -68,7 +68,7 @@ Enter the amount in USD (US Dollar): 10
 👋 Thank you for using the Currency Converter. Goodbye!
 
 ```
-##🛠️ Requirements
+## 🛠️ Requirements
 
 - Python 3.6+
 - No external libraries required (pure Python)
